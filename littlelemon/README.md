@@ -14,3 +14,5 @@ Currently, two official plugins are available:
 ![LLBook](/littlelemon/src/images/LLBOOK.png)
 
 ![BookedConfirmed](/littlelemon/src/images/LLCONFIRMED.png)
+
+## META
