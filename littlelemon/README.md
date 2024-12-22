@@ -9,8 +9,8 @@ Currently, two official plugins are available:
 
 ## Imagen del Proyecto
 
-![LittleLemmonWeb](images/LLWEB.png)
+![LittleLemmonWeb](/littlelemon/src/images/LLWEB.png)
 
-![LLBook](images/LLBOOK.png)
+![LLBook](/littlelemon/src/images/LLBOOK.png)
 
-![BookedConfirmed](images/llConfirmed.png)
+![BookedConfirmed](/littlelemon/src/images/LLCONFIRMED.png)
